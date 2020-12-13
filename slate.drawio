@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T08:43:43.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_xInoLQWv3kyuQ6GOg1k" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T14:17:58.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5y4Do8KP2I8ZmzVY2kAe" version="14.0.1" type="github">
   <diagram id="vV88IOH-yytLftiay6Gs" name="Page-1">
-    <mxGraphModel dx="1800" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="1227" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,6 +92,12 @@
         </mxCell>
         <mxCell id="VkY5Yw9iRTA2BQsGrsBn-16" value="最终渲染到页面上的组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="925" y="1363.5" width="241" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="VkY5Yw9iRTA2BQsGrsBn-18" value="" style="whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="-362" width="1336" height="742" as="geometry" />
+        </mxCell>
+        <mxCell id="VkY5Yw9iRTA2BQsGrsBn-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#66FFFF;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/ianstormtaylor/slate/master/docs/images/banner.png;" vertex="1" parent="1">
+          <mxGeometry x="1441" y="-152" width="847.5" height="211.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
